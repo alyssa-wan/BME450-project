@@ -1,6 +1,6 @@
 # BME450-Cell_Confluency_Analyzer
 # Title
-  Cell Confleuncy Analyzer
+  Cell Confluency Analyzer
 #
 # Team Members
   Alyssa Wan (alyssa-wan), Makenna Lee (makennalee)

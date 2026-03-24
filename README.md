@@ -1,4 +1,4 @@
-# BME450-project
+# BME450-Cell_Confluency_Analyzer
 # Title
   Cell Confleuncy Analyzer
 #
